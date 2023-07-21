@@ -7,4 +7,3 @@ streamlit_option_menu
 pandas
 seaborn
 nltk
-pickle
